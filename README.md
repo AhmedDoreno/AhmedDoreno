@@ -10,10 +10,10 @@ Front-End: jQuery, Bootstrap
 Back-End: Creating dynamic server-side logic, managing databases
 
 Here's the Scoop..
-- PHP Enthusiast: PHP isn't just code for me ❤❤ it's a creative journey that never gets old 💪.
-- Native is Nifty: While frameworks have their charms, I'm all about that raw, native magic.
-- Dreams to Reality: If you can dream it, I can build it. Turning concepts into digital wonders is my thing.
-- Back to Basics: I'm returning to the coding game after a bit of a break, and the excitement is palpable.
+- <strong>PHP Enthusiast:</strong> PHP isn't just code for me ❤❤ it's a creative journey that never gets old 💪.
+- <strong>Native is Nifty:</strong> While frameworks have their charms, I'm all about that raw, native magic.
+- <strong>Dreams to Reality:</strong> If you can dream it, I can build it. Turning concepts into digital wonders is my thing.
+- <strong>Back to Basics:</strong> I'm returning to the coding game after a bit of a break, and the excitement is palpable.
 
 Let's Create Together..
 Ready to collaborate 🚀🌟 innovate, and turn ideas into digital masterpieces? Let's connect on.. 
